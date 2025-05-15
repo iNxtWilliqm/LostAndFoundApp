@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">LostAndFoundApp</string>
+    <string name="post_type">Post Type:</string>
+    <string name="lost">Lost</string>
+    <string name="found">Found</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="description">Description</string>
+    <string name="date">Date</string>
+    <string name="location">Location</string>
+    <string name="save">SAVE</string>
+    <string name="remove">REMOVE</string>
+    <string name="lost_and_found_app">LOST AND FOUND APP</string>
+    <string name="create_a_new_advert">CREATE A NEW ADVERT</string>
+    <string name="show_all_lost_and_found_items">SHOW ALL LOST AND FOUND ITEMS</string>
+    <string name="lost_and_found_items">LOST AND FOUND ITEMS</string>
+</resources>
