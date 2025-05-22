@@ -77,11 +77,20 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:autofillHints="location"
+        android:clickable="true"
+        android:cursorVisible="false"
+        android:focusable="false"
         android:hint="@string/location"
         android:inputType="text"
         android:maxLength="50"
         android:maxLines="1"
         android:singleLine="true" />
+
+    <Button
+        android:id="@+id/btnCurrentLocation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/get_current_location" />
 
     <Button
         android:id="@+id/btnSave"

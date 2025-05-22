@@ -16,7 +16,7 @@
         android:text="@string/lost_and_found_app"
         android:textSize="32sp"
         android:textStyle="bold" />
-    
+
     <Button
         android:id="@+id/btnCreate"
         android:layout_width="match_parent"
@@ -28,5 +28,11 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/show_all_lost_and_found_items" />
+
+    <Button
+        android:id="@+id/btnMap"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/show_on_map" />
 
 </LinearLayout>
